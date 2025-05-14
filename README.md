@@ -9,12 +9,12 @@
 
 <h3 align="center">🚀 Passionate about building performant, secure, and scalable web apps.</h3>
 
-- 🔭 Currently working on: *Modern web apps with MERN & Prisma + PostgreSQL*
-- 🌱 Exploring: *NeonDB, **Graph algorithms, **Python automation*
-- 💡 Favorite Topics: *Backend Optimization, **Auth Systems, **C++ STL tricks*
-- 💬 Ask me about: React, Next.js, Node.js, MongoDB, DSA in C++
+- 🔭 Currently working on: *DSA and Frontent Developement and Java OOPS*
+- 🌱 Exploring: *NeonD, **Graph algorithms, **Python automation*
+- 💡 Favorite Topics: , , **DSA*
+- 💬 Ask me about: DSA in C,HTML , CSS, JavaSript,Java OOPS
 - 📫 Reach out: *your.email@example.com*
-- 🌐 Portfolio: [your-portfolio-link.com](https://your-portfolio-link.com)
+- 🌐
 
 ---
 
